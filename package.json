@@ -2,7 +2,7 @@
   "name": "blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abihasaqlain514.github.io/blog",
+  "homepage": "https://abihasaqlain514.github.io/blog.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
